@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464" height="500" viewBox="0 0 464 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff1f2"/>
+      <stop offset="0.5" stop-color="#ffe4e6"/>
+      <stop offset="1" stop-color="#fecdd3"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#be123c"/>
+      <stop offset="1" stop-color="#e11d48"/>
+    </linearGradient>
+  </defs>
+  <rect width="464" height="500" fill="url(#bg)"/>
+  <circle cx="232" cy="200" r="110" fill="#ffffff" opacity="0.85"/>
+  <circle cx="232" cy="200" r="110" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.35"/>
+  <text x="232" y="228" text-anchor="middle" font-family="Georgia, serif" font-size="96" fill="#be123c" letter-spacing="-2">KL</text>
+  <text x="232" y="360" text-anchor="middle" font-family="monospace" font-size="22" letter-spacing="6" fill="#78716c">PRODUCT</text>
+  <text x="232" y="392" text-anchor="middle" font-family="monospace" font-size="22" letter-spacing="6" fill="#78716c">MARKETING</text>
+  <rect x="172" y="420" width="120" height="4" rx="2" fill="url(#accent)"/>
+</svg>
